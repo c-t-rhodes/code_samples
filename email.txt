@@ -1,0 +1,20 @@
+Names blanked*
+
+Hi S,
+
+As promised, I have some code samples available at the following github repo:
+
+https://github.com/c-t-rhodes/code_samples.git
+
+Right now, there are 2 directories: one for C# and one for C++.  Since C# is a bigger part of your environment, I decided to give it a shot when I had time since the interview.  It's actually a really nice language, so I'm surprised I never gave it much of a chance before.  In the single program, I attempt to show some understanding into Classes, Inheritance, List iteration, type checking, and even some regex.  
+
+The C++ code is from a couple years ago when I had first started my graduate work, as a stepping stone into my research.  The Hierarchical Clustering class, will read in a file of observations, turning them into a vector of "Clusters".  Once processed, that vector will contain only a single Cluster, which represents the head node of a binary tree.  The running command prompt will allow a user to "cut" and view a certain portion of the tree, and will show off other attribute data related to that cluster.  This project dives into basic tree traversal, recursion, pointers/reference passing, etc...  If you have never experienced this before, here's a quick visual example of what I'm attempting (https://en.wikipedia.org/wiki/Hierarchical_clustering#Example_for_Agglomerative_Clustering).
+
+
+I wanted to go ahead and get these to you now for your spare time, while I work on finishing up a python/bash example that doesn't have Acxiom details in it. I will reply once when I commit those 2 examples to the repo.
+
+If you have any questions, concerns, or comments, please let me know.
+
+Thanks,
+
+C
